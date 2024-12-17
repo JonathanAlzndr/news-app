@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="stay_updated">Stay Updated!</string>
+    <string name="welcome_text">Get breaking news and personalized\nupdates directly</string>
+    <string name="get_started">Get Started</string>
+</resources>
